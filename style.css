@@ -1,0 +1,19 @@
+/*
+ Theme Name:   glow-child
+ Author:       Suzanne Clark
+ Description:  Child theme based on glow but with bonus features
+ Template:     Glow
+*/
+
+.dt-main-menu-wrap {
+    background-color: black;
+}
+
+/*p {
+	color: red;
+}*/
+
+
+.dt-opening-hours {
+    margin-top: -20px;
+}
